@@ -1,0 +1,25 @@
+.mainGrid{
+    border: 2px solid black;
+}
+.headerTitle{
+    font-size: 25px;
+    color: black;
+}
+.header{
+    border: 2px solid rgb(228, 8, 8);
+    background-color: red;
+}
+.leftSideBar{
+    border: 2px solid black;
+    height: 500px;
+    background-color: skyblue;
+}
+.mainContent{
+    border: 2px solid rgb(13, 66, 163);
+    background-color: yellow;
+}
+.items{
+    border: 3px solid purple;
+    background-color: aqua;
+    height: 221.5px;
+}
